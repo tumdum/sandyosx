@@ -2,6 +2,8 @@ sandy - simple ncurses text editor
 ==================================
 sandy is a simple ncurses text editor.
 
+Official sandy repo moved to https://bitbucket.org/rafaelgg/sandy/ (already patched to work on osx).
+
 
 Requirements
 ------------
